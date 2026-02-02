@@ -1,0 +1,55 @@
+type,tag,text,href
+link,a,About,/about
+link,a,Trademark,/about/trademark
+link,a,Learn,/learn
+link,a,Book,/book
+link,a,Cheat Sheet,/cheat-sheet
+link,a,Videos,/videos
+link,a,External Links,/doc/ext
+link,a,Tools,/tools
+link,a,Command Line,/tools/command-line
+link,a,GUIs,/tools/guis
+link,a,Hosting,/tools/hosting
+link,a,Reference,/docs
+link,a,Install,/install
+link,a,Community,/community
+link,a,Logos,/community/logos
+link,a,Pro Git book,/book
+link,a,read online for free,/book
+link,a,Amazon.com,https://www.amazon.com/Pro-Git-Scott-Chacon/dp/1484200772?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430218339&linkCode=as2&tag=git-sfconservancy-20
+heading,h1,Community,
+link,a,git@vger.kernel.org,mailto:git@vger.kernel.org
+link,a,plain-text email,https://useplaintext.email/
+link,a,here,mailto:git+subscribe@vger.kernel.org
+link,a,archive,https://lore.kernel.org/git/
+link,a,Git for Windows' discussions,https://github.com/git-for-windows/git/discussions/
+link,a,Git mailing list,mailto:git@vger.kernel.org
+link,a,Git for Windows' bug tracker,https://github.com/git-for-windows/git/issues
+link,a,Git packagers mailing list,https://groups.google.com/forum/?fromgroups#!forum/git-packagers
+link,a,next branch,https://github.com/git/git/tree/next
+link,a,git bugreport,/docs/git-bugreport
+link,a,issue tracker,https://github.com/git/git-scm.com/issues
+link,a,issue tracker,https://github.com/progit/progit2
+link,a,"this
+      guide",http://www.chiark.greenend.org.uk/~sgtatham/bugs.html
+link,a,Git Security,mailto:git-security@googlegroups.com
+link,a,Libera Chat,https://libera.chat/guides/connect
+link,a,Git Community Discord Server,https://discord.gg/GRFVkzgxRd
+link,a,Git logos,/community/logos
+link,a,"""Git Rev News""",https://git.github.io/rev_news/rev_news/
+link,a,its archive,https://git.github.io/rev_news/archive/
+link,a,its latest edition,https://git.github.io/rev_news/
+link,a,dedicated webpage,https://git.github.io/rev_news/rev_news/
+link,a,Documentation directory,https://github.com/git/git/tree/master/Documentation
+link,a,coding guidelines,/docs/CodingGuidelines
+link,a,code of conduct,https://github.com/git/git/blob/master/CODE_OF_CONDUCT.md
+link,a,how to submit patches,/docs/SubmittingPatches
+link,a,My First Contribution tutorial,/docs/MyFirstContribution
+link,a,howto for Git maintainers,https://github.com/git/git/blob/master/Documentation/howto/maintain-git.adoc
+link,a,Git Developer Pages,https://git.github.io/
+link,a,Hacking Git page,https://git.github.io/Hacking-Git/
+link,a,information,https://git.github.io/General-Application-Information/
+link,a,Outreachy,https://www.outreachy.org/
+link,a,Google Summer of Code,https://summerofcode.withgoogle.com/
+link,a,About this site,/site
+link,a,Software Freedom Conservancy,/sfc
