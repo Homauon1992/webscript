@@ -15,9 +15,6 @@ Unlike many scrapers that rely on heavy external libraries, this tool is built u
 ## 🛠️ Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-
-
 2. Navigate to the directory:
 ## cd your-repo-name
 
